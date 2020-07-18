@@ -1,0 +1,16 @@
+1. 엑셀 특강 듣기 : 끝
+2. 안드로이드/mysql 강의 듣기
+3. 토익 공부
+4. C언어 공부 with LeetCode
+5. Git 공부
+https://github.com/Sakeeri/git_practice.git
+ctrl + c = ctrl + ins
+ctrl + v = shift + ins
+
+월 : 
+화 : 
+수 : 
+목 : 
+금 : 
+토 : 
+일 : 
